@@ -1,3 +1,8 @@
+<img width="2560" height="1440" alt="Снимок экрана от 2025-11-13 03-00-17" src="https://github.com/user-attachments/assets/bb7aff59-4b39-46da-a2d8-ab4f02ac4e52" />
+<img width="2560" height="1440" alt="Снимок экрана от 2025-11-13 03-00-30" src="https://github.com/user-attachments/assets/59b5235e-a434-4f8e-9229-c7eb6fddc154" />
+<img width="2560" height="1440" alt="Снимок экрана от 2025-11-13 03-00-41" src="https://github.com/user-attachments/assets/076ba17f-4884-4e93-a66d-87e1904b432f" />
+<img width="2560" height="1440" alt="Снимок экрана от 2025-11-13 03-00-44" src="https://github.com/user-attachments/assets/05875d9e-e612-4f5b-b05c-76a369542250" />
+
 # Интеграция с Яндекс Картами
 
 Веб-приложение для получения и отображения отзывов с Яндекс Карт.
